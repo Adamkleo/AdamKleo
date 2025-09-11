@@ -1,13 +1,6 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,17,24&height=180&section=header&text=Hala%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-</div>
-
 <!-- Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Software+Engineer" alt="Typing SVG" />
 </p>
 
 <!-- Socials with Custom Styling -->
@@ -23,7 +16,7 @@
 <br/>
 
 <!-- GitHub Stats Dashboard -->
-## 📊 GitHub Analytics
+
 
 <div align="center">
   
@@ -49,9 +42,7 @@
 
 ### 🚀 Frameworks & Libraries
 ![POSIX](https://img.shields.io/badge/POSIX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Socket Programming](https://img.shields.io/badge/Sockets-FF6600?style=for-the-badge&logo=socket.io&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -76,8 +67,3 @@
 </div>
 
 
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
