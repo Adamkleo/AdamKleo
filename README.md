@@ -1,6 +1,7 @@
 <!-- Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Software+Engineer" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&weight=600&size=28&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Software+Engineer" alt="Typing SVG" />
 </p>
 
 <!-- Socials -->
@@ -11,6 +12,15 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=30)](https://adamkleo.github.io/portfolio/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/Adamkleo)
 </div>
+
+
+<!-- Currently Working On -->
+<div align="center">
+  
+**Currently building CROG** - A C++ mathematical expression evaluator
+
+</div>
+
 
 <!-- GitHub Stats & Skills Grid -->
 <div align="center">
