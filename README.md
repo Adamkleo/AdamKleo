@@ -17,7 +17,6 @@
 <!-- Currently Working On -->
 <div align="center">
   
-**Currently building CROG** - A C++ mathematical expression evaluator
 
 </div>
 
